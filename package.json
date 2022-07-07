@@ -1,0 +1,22 @@
+{
+  "name": "invisifox",
+  "version": "1.0.0",
+  "description": "NodeJs package for easy integration with the API of invisifox captcha solving service.",
+  "main": "invisifox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/invisifox/invisifox-NodeJs.git"
+  },
+  "keywords": [
+    "invisifox"
+  ],
+  "author": "invisifox Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/invisifox/invisifox-NodeJs/issues"
+  },
+  "homepage": "https://github.com/invisifox/invisifox-NodeJs#readme"
+}
