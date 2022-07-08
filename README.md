@@ -1,7 +1,7 @@
 # invisiFox Node.js API
 
 Welcome to the invisiFox Node.js API!<br />
-[Python API](--PYTHON API LINK HERE--) | [Rest API](https://pypi.org/project/invisifox/)
+[Python API](https://pypi.org/project/invisifox/) | [Rest API](https://docs.invisifox.com/rest-api)
 
 In order to use the invisiFox API you will need an API key. You can get your API key by creating an account and adding credit on [invisifox.com](https://invisifox.com).
 
