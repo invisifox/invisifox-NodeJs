@@ -1,6 +1,6 @@
 {
   "name": "invisifox",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "NodeJs package for easy integration with the API of invisifox captcha solving service.",
   "main": "invisifox.js",
   "dependencies":{
