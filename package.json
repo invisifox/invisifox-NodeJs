@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "NodeJs package for easy integration with the API of invisifox captcha solving service.",
   "main": "invisifox.js",
+  "dependencies":{
+    "axios":"^0.27.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
